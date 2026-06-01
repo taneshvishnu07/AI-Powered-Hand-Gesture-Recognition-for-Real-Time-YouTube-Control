@@ -1,4 +1,4 @@
-# Computer Vision: Youtube Control using Hand Gestures
+# Computer Vision: AI Hand Gestures Control for YouTube 
 
 ## Overview
 
