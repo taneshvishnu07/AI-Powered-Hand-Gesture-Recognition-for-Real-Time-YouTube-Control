@@ -1,4 +1,4 @@
-# AI Youtube Control System using Hand Gestures 
+# AI-Powered Hand Gesture Recognition for Real-Time YouTube Control
 
 ## Overview
 
